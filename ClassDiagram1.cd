@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BikeFinal.AbsorberTypeException" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbsorberTypeException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.ArrayContainer&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAQBAMGAAQFEBAAgAIAAAFAIgCAAAQAAQ=</HashCode>
+      <FileName>ArrayContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.Product" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAQEAAAAABQAAAAUAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BikeFinal.CapacityException" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CapacityException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.Crosscountry">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAQAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Crosscountry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.ElectroBike">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAIAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ElecroBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.GearsException" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GearsException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.LinkedListContainer&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAAgAAAABAMDAAQFEBAAgAIAAABAIACAABQAgQ=</HashCode>
+      <FileName>LinkedListContainer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BikeFinal.Mountain">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Montain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.MyOutOfRangeException" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyOutOfRangeException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.NameException" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NameException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.PriceException" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PriceException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.ProducerException" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProducerException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.Program" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.SeatsException" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SeatsException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFinal.Urban">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAgAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Urban.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BikeFinal.IContainer&lt;T&gt;" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IContainer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BikeFinal.IName&lt;T&gt;" Collapsed="true">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IName.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BikeFinal.IName" Collapsed="true">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IName2.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="BikeFinal.Compare&lt;T&gt;" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IContainer.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BikeFinal.Find&lt;T&gt;" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IContainer.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BikeFinal.PriceChangingHandler" Collapsed="true">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>IContainer.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
